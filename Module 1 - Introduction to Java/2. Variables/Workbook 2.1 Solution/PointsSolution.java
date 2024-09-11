@@ -1,6 +1,6 @@
 //First, try the workbook yourself before looking at the solution.
 
-public class Points {
+public class PointsSolution {
     public static void main(String[] args) {
         int points = 0;
 

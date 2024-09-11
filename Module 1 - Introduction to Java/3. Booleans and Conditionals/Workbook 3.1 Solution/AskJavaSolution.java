@@ -1,4 +1,4 @@
-public class AskJava {
+public class AskJavaSolution {
     public static void main(String[] args) {
         
         double change = 3.50;

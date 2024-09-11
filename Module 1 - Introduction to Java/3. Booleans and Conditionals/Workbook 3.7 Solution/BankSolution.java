@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bank {
+public class BankSolution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("\n****ROYAL BANK OF JAVA****");

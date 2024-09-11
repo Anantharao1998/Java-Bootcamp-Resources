@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Chatbot {
+public class ChatbotSolution {
     public static void main(String[] args) {
         
         Scanner scan = new Scanner(System.in);

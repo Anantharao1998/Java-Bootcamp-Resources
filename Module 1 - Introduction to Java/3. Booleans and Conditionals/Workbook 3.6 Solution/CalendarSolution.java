@@ -1,5 +1,5 @@
 
-public class Calendar {
+public class CalendarSolution {
     public static void main(String[] args) {
         String day = "Friday"; //Can be any day.
         System.out.println("Hey, are you free on " + day + "? \n");

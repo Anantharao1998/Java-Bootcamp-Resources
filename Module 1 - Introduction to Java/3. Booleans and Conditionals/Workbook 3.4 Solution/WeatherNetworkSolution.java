@@ -1,4 +1,4 @@
-public class WeatherNetwork {
+public class WeatherNetworkSolution {
     public static void main(String[] args) {
 
         int temp = 25;

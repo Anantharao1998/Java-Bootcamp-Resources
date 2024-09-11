@@ -1,4 +1,4 @@
-public class Meeting {
+public class MeetingSolution {
     public static void main(String[] args) {
 
         double sales = 24309.65; 

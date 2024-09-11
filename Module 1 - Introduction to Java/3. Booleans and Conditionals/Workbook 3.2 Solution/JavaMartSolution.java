@@ -1,4 +1,4 @@
-public class JavaMart {
+public class JavaMartSolution {
     public static void main(String[] args) {
         double wallet = 100;
         

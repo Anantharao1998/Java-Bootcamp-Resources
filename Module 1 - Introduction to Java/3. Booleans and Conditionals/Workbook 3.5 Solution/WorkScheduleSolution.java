@@ -1,4 +1,4 @@
-public class WorkSchedule {
+public class WorkScheduleSolution {
     public static void main(String[] args) {
         int day = 3;  
         boolean holiday = true;

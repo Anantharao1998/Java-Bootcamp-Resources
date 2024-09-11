@@ -1,4 +1,4 @@
-public class Championship {
+public class ChampionshipSolution {
     public static void main(String[] args) {
 
         int gryffindor = 100;    //gryffindor points

@@ -1,4 +1,4 @@
-public class AppleStore {
+public class AppleStoreSolution {
     public static void main(String[] args) {
         int numOfApples = 0;
         int numOfCustomers = 0;

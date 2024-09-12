@@ -1,4 +1,4 @@
-public class Detention {
+public class DetentionSolution {
     public static void main(String[] args) {
 
         // Task 2 – call the function 6 times. 

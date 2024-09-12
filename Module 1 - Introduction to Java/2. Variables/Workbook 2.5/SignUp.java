@@ -33,5 +33,6 @@ public class SignUp {
         System.out.println("\tCountry: <country>");
 
         //close scanner. It's good practice :D ! 
+        scan.close();
     }
 }
